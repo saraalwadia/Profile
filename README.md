@@ -12,12 +12,7 @@ A mobile-first Instagram-like profile page built with HTML, CSS, and Bootstrap, 
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Live Preview](#live-preview)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
 
 ---
 
